@@ -1,0 +1,16 @@
+Write Chat Comment to File
+
+The Code below will import a user input setting as well as a module to be used by a timer to post messages in chat. 
+
+The "Request-Line" is used to gather the user input and add it to a file of your choice (you will need to point this to the file you want to add to.)
+
+The Request Module is setup to be a Bot Timer that will post a message in chat explaining to your viewers that they can use the !request "you text here" command to send requests in.
+
+These 2 settings can be used in any combination to gather text input from users in chat.
+
+
+
+
+
+********Copy Text below to import****************
+TlM0RR+LCAAAAAAABADNVdtu00AQfUfiH4ZIeesG21nf+laEqIpokUoRD6QPY+9sYuHsGl+aRFV/g6/gq/gSdu26cZPyUNEKpEj2ztk5mdsZX798ATC6orLKtBodgnvQGhQuyZxGo+6IaW3gyli+2jPAdfcwUCbsPekFMnFCZL6HAePcRRbJJGAB+XESBTJFj3dcrdP3hhrLr5o831pJYZKT5avLhrb2PphzMn5VzT5kigZk81I3hcU/V1TCiSqaeoBivsJNdd7Y5CTm1YC3RCX08qjNbR9NtUqbsiRV72N79bhXk/aKzPI26HeHs9lHRW/L7IqAwfGXk9ms7BKptm+Tej0IuiWoaW3/eTRuTFpjML7jEldteuOdq1gUpPbqNmhPHHPhJHLKYgpTxjGOWUS+YDx1ybQn8Hno73CuKJsvbADOxNkJbFPYzKb3rX0X7rW0C0EJWluirfXm4E9l67N+vSSAXz9+/v0PPmVqXp3p2hDCbTE3uinhtvag5aCysMAKEiIFKAQJqDXUC4J2YCcDqicJbafkRUmSzMSJozTVTTt3zkPddJ0w4glH5hES404UsYRTyLiboODSyI2Lx3bTdR7bTnfQzv71clcix5am1cnlUFl5jkVFYoB2YD8Xu+vFS7gbx+QzR8ZTxmXsMHQDYi7KaeIFnDyJT7ZeTrVo8gcXzBtdw0W2NMvyP1gwd0pBpcy0pE+mF7jQd9pAqLSag1ENvOpt0rRPr4w2kk2rjaOyzuxVJeDMlNLqyZqt4wRoPYGt62mWLghzeI/pN4ObnXaxKLM8N3v7XwpKckrdwHy4pp6VEYWxGa/UZ1HEKZnGQeig+/yCcp5DUPbR3exU0YM3vwEmg9Qg+QcAAA==
